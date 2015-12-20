@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0E8D0'
+    - '#6A521B'
+    - '#686880'
+    - '#D0A848'
+    - '#E8D898'
+  brandStrength: 0.652027
+  lightness: 0.039422
+  rhythmicContrast: 0.472972
+  saturation: 0.759009
+cta: {}
+layout_spectrum: 0
+name: 'into the furnace '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.43018
